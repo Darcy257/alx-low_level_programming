@@ -2,6 +2,9 @@
 
 /**
  * main - main entry
+ *
+ * Description: using sizeof to print the size of various types
+ *
  * Return: always 0 for success
  */
 int main(void)
